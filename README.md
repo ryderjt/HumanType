@@ -25,4 +25,4 @@
 - Mystyped Characters
 - Spelling Fixes
 
-*Enable / Disable these features in the [code](https://github.com/ryderjt/HumanType/blob/main/HumanType.py)*
+*Enable / Disable these features in the [code](https://github.com/ryderjt/HumanType/blob/main/HumanType.py).*
