@@ -6,7 +6,7 @@
   <!-- Fancy badges -->
   <a href="https://github.com/ryderjt"><img src="https://img.shields.io/badge/Fine%20Shyte-Yes-blue" alt="Fine Shyte"></a>
   <a href="https://github.com/ryderjt/HumanType/blob/main/HumanType.py"><img src="https://img.shields.io/badge/Version-v0.4-darkred" alt="Version"></a>
-  <a href="https://github.com/ryderjt/HumanType/commits/master"><img src="https://img.shields.io/github/last-commit/ryderjt/humantype?logo=git" alt="Last commit"></a>
+  <a href="https://github.com/ryderjt/HumanType/commits/main"><img src="https://img.shields.io/github/last-commit/ryderjt/humantype?logo=git" alt="Last commit"></a>
   <img src="https://img.shields.io/github/stars/ryderjt/humantype" alt="Stars">
 </div>
 
