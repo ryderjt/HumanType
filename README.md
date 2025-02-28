@@ -14,7 +14,7 @@
 
 # How to use
 - Download the latest [code](https://github.com/ryderjt/HumanType/blob/main/HumanType.py) from the main branch.
-- Install a Python IDE if you don't already have one. I recommend [PyCharm](https://www.jetbrains.com/pycharm/) because they give out *free* Student Licenses.
+- Install a Python IDE if you don't already have one. I recommend [PyCharm](https://www.jetbrains.com/pycharm/) as they give out free Student Licenses.
 - Open [HumanType.py](https://github.com/ryderjt/HumanType/blob/main/HumanType.py) with your prefered IDE, and click run.
 - Copy the AI-generated text, and use `CTRL + SHIFT + I` to start the typing process.
 - If you need to stop the script, use `CTRL + SHIFT + O` to end the process.
