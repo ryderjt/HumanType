@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Logo and Title -->
   <h1>HumanType</h1>
-  <p>A Python Script to automatically write out your clipboard to simulate a human typer.</p>
+  <p>A Python Script that automatically writes out your clipboard to simulate a human typer.</p>
 
   <!-- Fancy badges -->
   <a href="https://github.com/ryderjt"><img src="https://img.shields.io/badge/Fine%20Shyte-Yes-blue" alt="Fine Shyte"></a>
