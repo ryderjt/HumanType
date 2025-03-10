@@ -3,7 +3,7 @@ import random
 import threading
 import pyautogui
 import pyperclip
-from pynput import key
+from pynput import keyboard
 
 pyautogui.PAUSE = 0
 
